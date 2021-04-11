@@ -1,0 +1,25 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid darkgray;
+    padding-bottom: 15px;
+    margin-top: 10px;
+}
+.product-details{
+    margin-left: 10px;
+}
+.main-btn{
+    background-color: #f0c14b;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+    width: 200px;
+    height: 26px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    border-radius: 3px;
+    vertical-align: middle;
+}
+.heading-style{
+    color: blue;
+    font-weight: 400;
+}
